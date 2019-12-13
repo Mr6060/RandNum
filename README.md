@@ -1,4 +1,4 @@
-Prova di generazione casuale di numeri.
+#Random assignemnt of Age, Gender and Country.
 
-Software che assegna casualmente un pasere, sesso ed età all'utente.
+Small program from the times I was learning C++ in school and wanted to take it deeper.
 
